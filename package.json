@@ -1,0 +1,19 @@
+{
+  "name": "arraymethods",
+  "version": "1.0.0",
+  "description": "Custom methods to manipulate arrays",
+  "main": "firstMethods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colter-Hammer/arrayMethods.git"
+  },
+  "author": "Theron Dowdle, Zachary Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Colter-Hammer/arrayMethods/issues"
+  },
+  "homepage": "https://github.com/Colter-Hammer/arrayMethods#readme"
+}

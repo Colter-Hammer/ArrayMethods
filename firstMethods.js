@@ -4,6 +4,12 @@ function evens(arr) {
     });
 }
 
+function oddIndexes(arr) {
+    return arr.filter(item => {
+        return item % 2 !== 0;
+    });
+}
+
 function mean(arr) {
     let sum = arr.reduce((acc,item) => {
         return acc + item;
