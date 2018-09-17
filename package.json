@@ -4,7 +4,7 @@
   "description": "Custom methods to manipulate arrays",
   "main": "firstMethods.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Colter-Hammer/arrayMethods/issues"
   },
-  "homepage": "https://github.com/Colter-Hammer/arrayMethods#readme"
+  "homepage": "https://github.com/Colter-Hammer/arrayMethods#readme",
+  "devDependencies": {
+    "tap": "^12.0.1"
+  }
 }
